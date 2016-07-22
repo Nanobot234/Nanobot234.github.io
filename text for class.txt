@@ -1,0 +1,23 @@
+variable represent information
+score game
+turn in game
+
+Python variables
+x = 5 basically means x is 5
+= is called assignment operator
+4
+
+Loops
+two kinds of loops
+1 repeats things a certain number of time
+2. repeats things until something else happens
+
+1. lets say u want to invie 100 people to a party, you loop it 100m times
+
+2. lets say you want to loop unti something happens, then u can say eat ice cream and loop that action until the ie cream is done.
+
+Python Loop
+i = 0
+while i < 5
+print("All Star Code")
+i = i + 1
