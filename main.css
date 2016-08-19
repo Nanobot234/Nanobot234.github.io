@@ -1,0 +1,146 @@
+
+img {
+	margin-top:0px;
+	margin-left:460px;
+	
+}
+
+.Bio {
+	text-align:center;
+}
+
+.projectx  {
+	padding: 10px;
+	margin: 0px;
+	background: yellow;
+}
+
+.projectx:hover {
+	box-shadow: 10px 10px 5px;
+	transform: scale(1.02);
+}
+
+.des{
+	text-align: center;
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.des:hover{
+	color: magenta;
+}
+
+
+.myBeliefs{
+	background:green;
+	padding: 10px;
+    margin: 0px;
+}
+
+.myBeliefs a {
+	text-decoration: none;
+	font-family: 'Rakkas', cursive;
+}
+
+
+.myBeliefs:hover{
+	box-shadow: 10px 10px 5px;
+	transform: scale(1.02);
+
+}
+
+
+.JW{
+	text-align: center;
+	font-family:'Rakkas', sans-serif;
+}
+
+
+.history {
+	background:magenta;
+	padding:10px;
+	margin:0px;
+}
+
+.history a {
+	text-decoration: none;
+	font-family:'Rakkas',cursive;
+}
+
+.history:hover {
+	box-shadow: 10px 10px 5px;
+	transform: scale(1.02);
+}
+
+.fa-history {
+	: center;
+}
+
+.historical {
+	text-align: center;
+	font-family:'Oxygen',cursive;
+}
+
+
+
+
+.codeIntro {
+	text-align: center;
+	color:black;
+	font-family: 'Playfair+Display',cursive;
+	background:orange;
+	padding:10px;
+	margin:0px;
+}
+
+.codeIntro{
+	text-decoration: none;
+	font-family: 'Rakkas',cursive;
+
+}
+
+.codeIntro:hover{
+	box-shadow: 10px 10px 5px;
+	transform: scale(1.02);
+}
+
+
+.comments{
+	text-align:center;
+}
+
+
+
+
+h1 {
+	text-align: center;
+	font-family: 'Roboto', cursive;
+}
+
+h3 {
+	color:blue;
+}
+
+body {
+	background-color:rgb(132,112,255);
+}
+
+
+p {
+	text-align:center;
+	color:blue;
+	font-size: 30px;
+}
+
+
+img {
+	margin-top:100px;
+	margin-left:460px;
+	width: 300px;
+	
+}
+iframe {
+	margin-left: 460px;
+	width:500px;
+}
